@@ -1,0 +1,30 @@
+a{
+	color: white;
+	font-size: 20px;
+}
+
+.div_menu{
+	background-color: black;
+	text-transform: uppercase;
+	text-decoration: underline;
+}
+
+.slider-div{
+	padding-top: 10px;
+	padding-left: 40px;
+	
+}
+
+.slider{
+	width: 48%;
+}
+
+.p_paragraf{
+	text-align: justify;
+}
+
+footer{
+	text-align: center;
+	background-color: black;
+	color: white;
+}
